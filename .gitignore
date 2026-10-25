@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+# datasets, checkpoints and generated outputs are not tracked
+*.pkl
+*.pt
+*.npz
+*.mp4
+*.gif
+*.png
+*.pdf
+*.log
+*.json
+*.xml
+traj/
+fig/

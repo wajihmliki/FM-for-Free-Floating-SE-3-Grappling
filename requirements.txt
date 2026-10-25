@@ -1,0 +1,9 @@
+numpy>=1.24
+scipy>=1.10
+torch>=2.0
+cvxpy>=1.4        # OSQP solver for the sequential convex refinement
+matplotlib>=3.7
+mujoco>=3.0       # independent-simulator validation and rendering
+pillow>=9.0
+imageio>=2.30
+imageio-ffmpeg>=0.4
